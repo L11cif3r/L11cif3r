@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=00c6ff,0072ff&text=Hi,%20I'm%20L11cif3r&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=00c86f,0072ff&text=Hi,%20I'm%20L11cif3r&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=2000&pause=500&color=00c6ff&center=true&vCenter=true&width=1000&lines=Full-Stack+Developer;Open+Source+Contributor;Tech+Enthusiast;Always+Learning"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=2000&pause=500&color=00c34f&center=true&vCenter=true&width=1000&lines=CyberSecurity;Open+Source;GenAI;SDE"/>
 </p>
 
 <div align="center">
