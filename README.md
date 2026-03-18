@@ -7,16 +7,16 @@
 </p>
 
 <div align="center">
-  <h3>🚀 About Me</h3>
-  <p>I am a passionate developer focused on building scalable, efficient, and visually appealing applications. When I'm not coding, I'm exploring new technologies or contributing to open-source projects.</p>
-  <p>🌱 Currently learning: <b>[Insert Tech, e.g., Rust & Web3]</b><br>
-  🤝 Looking to collaborate on: <b>[Insert Project Type, e.g., AI/ML open source]</b><br>
-  💬 Ask me about: <b>[Insert Expertise, e.g., React, Python, Cloud Architecture]</b></p>
+  <h3> Me</h3>
+  <p>Cys enthusiast, AI, DevOps, WebDev.</p>
+  <p>Currently : <b>Pentesting, Web3, Docker</b><br>
+   Willing to collaborate on: <b> Cys, AI/ML, WebDev, UI/UX</b><br>
+   </p>
 </div>
 
 <br>
 
-<h3 align="center">🛠️ Tech Stack</h3>
+<h3 align="center">Tech Stack</h3>
 
 <p align="center">
   <b>Frontend</b><br>
@@ -35,7 +35,7 @@
 
 <br>
 
-<h3 align="center">📊 GitHub Analytics</h3>
+<h3 align="center">GitHub Analytics</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=L11cif3r&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%">
@@ -48,19 +48,19 @@
 
 <br>
 
-<h3 align="center">🏆 Milestones & Achievements</h3>
+<h3 align="center">Milestones & Achievements</h3>
 
 <div align="center">
   <p>
-    🥇 <b>[Award/Hackathon Name]</b> - Winner (2025) <br>
-    📄 <b>[Certification Name]</b> - Certified Professional <br>
-    👨‍💻 <b>[Open Source]</b> - Contributed to [Project Name] <br>
+     <b>[Award/Hackathon Name]</b> - Winner (2025) <br>
+     <b>[Certification Name]</b> - Certified Professional <br>
+     <b>[Open Source]</b> - Contributed to [Project Name] <br>
   </p>
 </div>
 
 <br>
 
-<h3 align="center">🌐 Let's Connect</h3>
+<h3 align="center">Connect</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/[YourLinkedIn]">
@@ -69,8 +69,8 @@
   <a href="https://twitter.com/[YourTwitter]">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="mailto:[YourEmail@example.com]">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="mailto:[sachusourav2.0@gmail.com]">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email this works"/>
   </a>
   <a href="https://yourportfolio.com">
     <img src="https://img.shields.io/badge/Portfolio-252F3F?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio"/>
