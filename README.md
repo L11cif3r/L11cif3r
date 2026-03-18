@@ -48,7 +48,7 @@
 
 <br>
 
-<h3 align="center">Milestones & Achievements</h3>
+<!-- <h3 align="center">Milestones & Achievements</h3> -->
 
 <!-- <div align="center">
   <p>
