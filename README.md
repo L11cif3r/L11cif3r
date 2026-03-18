@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=00c6ff,0072ff&text=Hi,%20I'm%20[L11cif3r]&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=00c6ff,0072ff&text=Hi,%20I'm%20L11cif3r&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
 <p align="center">
@@ -38,12 +38,12 @@
 <h3 align="center">📊 GitHub Analytics</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[L11cif3r]&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[L11cif3r]&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=L11cif3r&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=L11cif3r&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[L11cif3r]&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=L11cif3r&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages">
 </p>
 
 <br>
