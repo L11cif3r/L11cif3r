@@ -50,13 +50,13 @@
 
 <h3 align="center">Milestones & Achievements</h3>
 
-<div align="center">
+<!-- <div align="center">
   <p>
      <b>[Award/Hackathon Name]</b> - Winner (2025) <br>
      <b>[Certification Name]</b> - Certified Professional <br>
      <b>[Open Source]</b> - Contributed to [Project Name] <br>
   </p>
-</div>
+</div> -->
 
 <br>
 
