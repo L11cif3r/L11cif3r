@@ -80,5 +80,5 @@
 <br>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6c7a89,b0bec5&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=0,12,20&animation=fadeIn&fontAlignY=35&section=footer"/>
 </p>
